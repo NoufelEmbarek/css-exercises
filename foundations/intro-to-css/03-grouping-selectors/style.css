@@ -1,1 +1,9 @@
-/* Add CSS Styling */
+#one{
+    color: white;
+    background-color: black;
+}
+
+#two{
+    color: black;
+    background-color: yellow;
+}
