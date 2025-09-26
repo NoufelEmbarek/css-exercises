@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+.class {
+    background-color: rgb(221, 121, 104);
+}
+
+.cooler-class{
+    font-size: larger;
+}
+
+#one{
+    color: rgba(0, 0, 255, 0.692);
+    font-size: x-large;
+}
+
+#another{
+    background-color: rgb(7, 236, 102);
+    font-weight: bold;
+}
